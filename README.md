@@ -28,6 +28,20 @@ unbreakable, the system was still easy enough to defang and hack into, and inspi
 many others, myself included, to want to dig further into the system to see what else
 we could find and do with it. And so here we are!
 
+## Licensing of this code
+Seeing as how the Linux kernel is GPL 2.0+ licensed, we're going to go with that as well.
+If I'm in the wrong, please let me know and I'll change it.
+
 ## What to do with this source code
 This source code is mainly for research and study purposes. If you wish to build and
 debug this source code, I would recommend keeping it within a sandboxed environment.
+
+## Where to find me
+
+I'm usually hanging around on Mastodon; find me at [hackers.town](https://hackers.town/@LambdaCalculus)!
+
+If you want to support my work, feel free to [leave a tip](https://ko-fi.com/lambdacalculus)!
+
+And as always, HACK THE PLANET!!
+
+![HACK THE PLANET](/images/hack-the-planet.jpg)
